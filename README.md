@@ -23,14 +23,12 @@ FILES
     spellrc - the settings file
     dictionary.txt - dictionary file
     makefile - the makefile for the program
-========================================================================================
 
 COMPILING & EXECUTING
 ----------------------------------------------------------------------------------------
     Execute the makefile in the src directory (using make)
     ./spellchecker "filename to check and correct" to execute the program
     (quotes not included in filename and the file should be in the same directory with executable)
-========================================================================================
 
 SETTINGS FILE (spellrc)
 ----------------------------------------------------------------------------------------
@@ -40,9 +38,7 @@ dictionary - The dictionary file to use to look up the correct spelling of words
 autocorrect - Set "yes" to autocorrect, "no" for manual selection per misspelt word where
               the user is asked to accept/reject the suggested word for each misspelt word
               (quotes not included)
-========================================================================================
 
 VALGRIND ISSUES
 ----------------------------------------------------------------------------------------
     NONE
-========================================================================================
