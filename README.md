@@ -34,7 +34,9 @@ SETTINGS FILE (spellrc)
 ----------------------------------------------------------------------------------------
 maxcorrection - Difference in characters between actual and misspelt word the program 
                 should consider.
+                
 dictionary - The dictionary file to use to look up the correct spelling of words
+
 autocorrect - Set "yes" to autocorrect, "no" for manual selection per misspelt word where
               the user is asked to accept/reject the suggested word for each misspelt word
               (quotes not included)
