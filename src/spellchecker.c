@@ -31,7 +31,7 @@
 #include "callbackFunc.h"
 #include "write.h"
 /**
- * main starts teh program.
+ * main starts the program.
  * @param  argc - argument count of command line parameters.
  * @param  argv - argument vector of command line parameters.
  * @return 0 if program exits successfully.
